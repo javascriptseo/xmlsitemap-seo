@@ -1,0 +1,26 @@
+{
+  "name": "xmlsitemap",
+  "version": "1.0.0",
+  "description": "Universal CLI for sitemap.xml File Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javascriptseo/xmlsitemap.git"
+  },
+  "keywords": [
+    "seo",
+    "sitemap",
+    "sitemapxml",
+    "sitemap.xml",
+    "xml-generator"
+  ],
+  "author": "javascriptseo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/javascriptseo/xmlsitemap/issues"
+  },
+  "homepage": "https://github.com/javascriptseo/xmlsitemap#readme"
+}
