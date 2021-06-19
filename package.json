@@ -1,6 +1,6 @@
 {
   "name": "xmlsitemap-seo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Universal CLI for sitemap.xml File Generator",
   "main": "index.js",
   "scripts": {
