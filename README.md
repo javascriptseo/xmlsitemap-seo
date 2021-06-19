@@ -20,6 +20,4 @@ yarn add xmlsitemap-seo
 
 Step 1: Run `npx xmlsitemap-seo` command in your termminal.
 
-Step 2: Provide drectory path for the `sitemap.xml` file.
-
-(Ex: `"./public"`, `"./"`)
+Step 2: Provide drectory path for the `sitemap.xml` file (Ex: './public', './').
