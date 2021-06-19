@@ -3,13 +3,6 @@
   "version": "1.0.1",
   "description": "Universal CLI for sitemap.xml File Generator",
   "main": "src/index.js",
-  "bin": "bin/generate-sitemap",
-  "engines": {
-    "node": ">= 10.13.0"
-  },
-  "publishConfig": {
-    "access": "public"
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,12 +11,7 @@
     "url": "git+https://github.com/javascriptseo/xmlsitemap-seo.git"
   },
   "keywords": [
-    "cli",
-    "seo",
-    "sitemap",
-    "sitemapxml",
-    "sitemap.xml",
-    "xml-generator"
+    "cli"
   ],
   "author": "javascriptseo",
   "license": "MIT",
@@ -32,11 +20,7 @@
   },
   "homepage": "https://github.com/javascriptseo/xmlsitemap-seo#readme",
   "dependencies": {
-    "arg": "^5.0.0",
-    "chalk": "^4.1.1",
-    "esm": "^3.2.25",
-    "inquirer": "^8.1.1",
-    "ncp": "^2.0.0"
+    "esm": "^3.2.25"
   },
   "files": [
     "bin/",
