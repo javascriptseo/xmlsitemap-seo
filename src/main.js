@@ -21,7 +21,9 @@ export async function createProject(options) {
 
   const currentFileUrl = import.meta.url;
   const templateDir = path.resolve(
-    new URL(currentFileUrl).pathname,
+    new URL(currentFileUrl).pathname.substring(
+      new URL(currentFileUrl).pathname.indexOf("/") + 1
+    ),
     "../../templates",
     options.template.toLowerCase()
   );
