@@ -1,6 +1,6 @@
-# xmlsitemap
+# xmlsitemap-seo
 
-Universal CLI for sitemap.xml File Generator
+Universal CLI for sitemap.xml File Generator for SEO
 
 ## Installation
 
